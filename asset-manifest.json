@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ClimateGuard/static/css/main.72de919b.css",
+    "main.js": "/ClimateGuard/static/js/main.56e50880.js",
+    "static/js/787.fb73a91a.chunk.js": "/ClimateGuard/static/js/787.fb73a91a.chunk.js",
+    "static/media/photo-1586348943529-beaae6c28db9.avif": "/ClimateGuard/static/media/photo-1586348943529-beaae6c28db9.e398103ce936d71c5c5c.avif",
+    "index.html": "/ClimateGuard/index.html",
+    "main.72de919b.css.map": "/ClimateGuard/static/css/main.72de919b.css.map",
+    "main.56e50880.js.map": "/ClimateGuard/static/js/main.56e50880.js.map",
+    "787.fb73a91a.chunk.js.map": "/ClimateGuard/static/js/787.fb73a91a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72de919b.css",
+    "static/js/main.56e50880.js"
+  ]
+}
